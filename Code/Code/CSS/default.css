@@ -3,6 +3,11 @@ html {
     color: white;
 }
 
+footer{
+    position: absolute;
+    bottom: 3%;
+}
+
 .main {
     display: flex;
     flex-direction: row;
